@@ -1,4 +1,6 @@
 # Code
 cd BATOS
 # Clone
-https://github.com/Bat0sneyebaktin/BATOS.git
+git clone https://github.com/Bat0sneyebaktin/BATOS.git
+# Cybersecurity / Siber Güvenlik
+python batos.py
